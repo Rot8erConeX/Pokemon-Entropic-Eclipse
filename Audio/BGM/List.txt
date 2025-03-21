@@ -1,0 +1,177 @@
+Kanto Birds:
+Standard = "Kanto Birds.mp3"
+Delta = "Galar Birds.mp3"
+
+Mewtwo:
+Standard = "Mewtwo.mp3"
+Delta = 
+
+Mew:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Johto Beasts:
+Standard = ""
+Delta = ""
+
+Ho-Oh:
+Standard = ""
+Delta = ""
+
+Lugia:
+Standard = ""
+Delta = (Shudo - use battle theme with the same name)
+
+Celebi:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Regis:
+Standard = ""
+Delta = ""
+
+Eon Duo:
+Standard = ""
+Delta = ""
+
+Kyogre & Groudon:
+Standard = ""
+Delta = ""
+
+Rayquaza:
+Standard = ""
+Delta = "Storm Alert 2006 Remix" (already coded)
+
+Deoxys:
+Standard = ""
+Delta = ""
+
+Jirachi:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Lake Trio:
+Standard = ""
+Delta = ""
+
+Dialga & Palkia:
+Standard = ""
+Delta = ""
+
+Giratina:
+Standard = ""
+Delta = (does not need theme)
+
+Cresselia:
+Standard = ""
+Delta = ""
+
+Heatran:
+Standard = ""
+Delta = ""
+
+Regigias:
+Standard = ""
+Delta = ""
+
+Manaphy:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Shaymin:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Arceus:
+Standard = ""
+Delta = "Beta Arceus.mp3"
+
+Victini:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Swords of Justice:
+Standard = ""
+Delta = ""
+
+Kami Quartet:
+Standard = ""
+Delta = ""
+
+Tao Trio:
+Standard = ""
+Delta = ""
+
+Meloetta:
+Standard = ""
+Delta = ""
+
+Genesect:
+Standard = ""
+Delta = ""
+
+Mortality Trio:
+Standard = ""
+Delta = ""
+
+Diancie:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Hoopa:
+Standard = ""
+Delta = (given via Suzerain NPC)
+
+Volcanion:
+Standard = ""
+Delta = ""
+
+Tapus:
+Standard = ""
+Delta = ""
+
+Cosmog line = (given as gifts)
+
+Necrozma = ""
+
+Magearna:
+Standard = ""
+Delta = ""
+
+Marshadow:
+Standard = ""
+Delta = ""
+
+Zeraora:
+Standard = ""
+Delta = ""
+
+Meltan:
+Standard = ""
+Delta = ""
+
+Doggos:
+Standard = ""
+Delta = ""
+
+Eternatus = ""
+
+Kubfu:
+Standard = ""
+Delta = ""
+
+Calyrex and steeds:
+Standard = ""
+Delta = ""
+
+Zarude:
+Standard = ""
+Delta = ""
+
+Treasures of Ruin:
+Standard = ""
+Delta = ""
+
+Paradox Legends:
+Standard = ""
+Delta = ""

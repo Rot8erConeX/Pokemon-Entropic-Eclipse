@@ -1,0 +1,16 @@
+[LIST]
+[*]Added Indigo Disk DLC Pokémon, abilities, moves, and several items to PBS
+[*]Added Resized Gen 8 Pokémon sprites
+[*]Added Meteorite item handler
+[*]Added MultipleForms for Terapagos
+[*]Added Electro Shot, Burning Bulwark, Fickle Beam, Dragon Cheer, Alluring Voice, Psychic Noise, Upper Hand Move handler
+[*]Added BurningBulwark effect in pbEndOfRoundPhase
+[*]Added Battle::DamageState class for Tera Shell
+[*]Added new ability trigger OnInflictingStatus for Poison Puppeteer
+[*]Added ModifyTypeEffectiveness and OnMoveSuccessCheck ability trigger for Tera Shell
+[*]Edited triggerOnStatusInflicted to add OnInflictingStatus trigger for Poison Puppeteer
+[*]Fixed pbSuccessCheckAgainstTarget so that Silk Trap/Burning Bulwark don't trigger during the charge turn of two turn moves
+[*]Removed the HighCriticalHitRatio flags from the moves Ceaseless Edge and Stone Axe, and updated their descriptions to remove all mentions of critical hits
+[*]Removed Scale Shot move handler
+[*]Updated Feint, Hyperspace Fury, and Shadow Force/Phantom Force
+[/LIST]
