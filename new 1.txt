@@ -1,0 +1,10 @@
+Clover Charm - wild mons have more items
+Oval Charm - more likely to find eggs
+Shiny Charm - more likely to find shinies
+Catching Charm - more likely to get critical catches
+Exp. Charm - more exp from battles
+Effort Charm - more flexibility for EV training
+Balance Charm - makes all encounters (except Island Scan) equally likely
+>Type< Charm - if an encounter of >type< exists, makes it so only encounters of >type< will spawn (this will be one unlock and then afterwards, each type's charm will come alongside the corresponding type's Z-Crystal)
+
+Gold Charm - increases gold from Trainer battles
