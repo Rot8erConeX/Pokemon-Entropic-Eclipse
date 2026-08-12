@@ -1,1 +1,0 @@
-Story variable = 40 currently
