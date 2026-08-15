@@ -1,0 +1,15 @@
+This folder ("Custom Players") can have up to sixteen subfolders, numbered in ascending numerical order from 1 to 16.
+
+Each folder must have files with the following names:
+- Front.png (this image must be square)
+- Back.png (this image must be five times as wide as it is tall)
+- Walk.png (this image must be square)
+
+In addition, the following images can be included but don't have to be:
+- Run.png (this image must be square.  If not included, Walk.png is used instead).
+- Bike.png (this image must be square.  If not included, Run.png is used instead, with a fallback to Walk.png if necessary).
+- Surf.png (this image must be square.  If not included, Walk.png is used instead).
+
+An example folder ("0"), with the images for Ultra Elio properly named so that artists can use them as a template, is included.  Because the game ALREADY has the sprites for Ultra Elio, this folder is given a name that the game cannot see.  It is used as a template, nothing more.
+
+Once in-game, players can speak to the computer within the Apparel Shop to import the outfits stored in this folder.  The game will copy the files in each folder to the appropriate spots within the game's actual data structure, so that they may be used in-game.  They will populate the table at the far right edge of the Apparel Shop, and will cost a higher amount than the other outfits.
